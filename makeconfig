@@ -1,0 +1,6 @@
+directory = .
+compiler = g++
+cflags = -lraylib -lm -lwinmm -lgdi32
+output = bin/openwatch
+includepath = include
+libpath = lib
